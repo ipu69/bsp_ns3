@@ -1,0 +1,103 @@
+{"placement": [
+            29,
+            40,
+            95,
+            139,
+            181,
+            230,
+            273
+        ],
+        "gateway_placement": [
+            0,
+            300
+        ],
+        "gateway": {
+            "Ptr": 20,
+            "Gtr": 5,
+            "Ltr": 1,
+            "Precv": -69,
+            "Grecv": 5,
+            "Lrecv": 1
+        },
+        "frequency": 2437,
+        "user_device": {
+            "Ptr":15,
+            "Gtr":2
+        },
+        "cost_limit": 130,
+        "sta": {
+            "1": {
+                "Ptr_link": 20,
+                "Gtr_link": 5,
+                "Precv_link": -69,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 40
+            },
+            "2": {
+                "Ptr_link": 19,
+                "Gtr_link": 5,
+                "Precv_link": -67,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 28
+            },
+            "3": {
+                "Ptr_link": 18,
+                "Gtr_link": 5,
+                "Precv_link": -69,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 45
+
+            },
+            "4": {
+                "Ptr_link": 19,
+                "Gtr_link": 5,
+                "Precv_link": -69,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 6,
+                "c": 22
+            },
+            "5": {
+                "Ptr_link": 19,
+                "Gtr_link": 5,
+                "Precv_link": -67,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 21
+            },
+            "6": {
+                "Ptr_link": 20,
+                "Gtr_link": 5,
+                "Precv_link": -69,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 40
+            },
+            "7": {
+                "Ptr_link": 19,
+                "Gtr_link": 5,
+                "Precv_link": -67,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 28
+            },
+            "8": {
+                "Ptr_link": 18,
+                "Gtr_link": 5,
+                "Precv_link": -69,
+                "Grecv_link": 5,
+                "Precv_coverage": -67,
+                "Grecv_coverage": 5,
+                "c": 45
+            }
+        }
+}
